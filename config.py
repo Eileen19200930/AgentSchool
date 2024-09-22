@@ -2,7 +2,7 @@
 
 # API配置
 API_BASE_URL = "https://api.lqqq.ltd/v1"
-API_KEY = "sk-9ng5J6z9XTWD74aEBdE3Ca36E2954b26A87bCeE9Ef008d6a"
+API_KEY = ""
 MODEL_NAME = "gpt-4o-mini"
 
 # Prompt模板
